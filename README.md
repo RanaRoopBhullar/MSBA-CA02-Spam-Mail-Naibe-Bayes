@@ -1,4 +1,4 @@
-# MSBA-CA02-Spam-Mail-Naibe-Bayes
+# MSBA-CA02-Spam-Mail-Naive-Bayes
 
 MSBA Computer Assignment 01 - Spam Mail Detection by Naive Bayes
 
@@ -7,7 +7,8 @@ The sample code and dataset are downloaded from https://github.com/ArinB/MSBA-CA
 I constructed my own Google Colab Notebook with my own variables. I also implemented comments on it explaining my steps.
 
 
-
+## Runtime
+< 1 min
 
 ---------------------------------------------------------------------------------------------------------------------------------
 Instructions to download the Data and Code
